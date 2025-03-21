@@ -1,0 +1,30 @@
+/* style.css (Optimizado) */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-main-container {
+    background-color: #ffbf69;
+    background-image: url('images/background.png');
+    background-size: 55% auto;
+    background-repeat: no-repeat;
+    background-position: 75% center;
+    min-height: 550px;
+    padding-right: 5vw;
+}
+
+.products {
+    background-color: #cbf3f0;
+}
+
+.main {
+    padding: 4rem 200px;
+    text-align: left;
+}
+
+.rules {
+    background-image: url('images/bg-grid.png');
+    background-size: 85% auto;
+    background-repeat: no-repeat;
+    background-position: center;
+}
